@@ -40,3 +40,7 @@ A modern web platform that enables developers and tech enthusiasts to connect, s
 ## License
 
 MIT
+
+## Presentation Link
+
+https://drive.google.com/file/d/1KVhcV3s_6ajVP2f0qrBEpH7eD2N6yNrU/view?usp=sharing
